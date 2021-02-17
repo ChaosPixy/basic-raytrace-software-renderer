@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(33,22): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(34,22): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(35,22): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(281,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(282,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(284,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(285,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(441,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Development\basic-raytrace-software-renderer\Software Renderer\main.cpp(441,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Software Renderer.vcxproj -> D:\Development\basic-raytrace-software-renderer\x64\Debug\Software Renderer.exe
